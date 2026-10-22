@@ -52,5 +52,3 @@ python MainMonitor.py
 ```
 
 Para detener el monitoreo en cualquier momento, presiona `Ctrl + C` en la terminal.
-
-```
