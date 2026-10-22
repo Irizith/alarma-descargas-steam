@@ -1,8 +1,3 @@
-Un `README.md` limpio y bien presentado le da a tu proyecto una apariencia 100% profesional en GitHub.
-
-Copia y reemplaza el contenido de tu archivo **`README.md`** con la siguiente estructura:
-
-```markdown
 # 🔔 Monitor de Descargas de Red / Steam
 
 Un script modular en Python diseñado para monitorear el ancho de banda entrante en tiempo real y emitir una alerta sonora si la velocidad cae por debajo de un umbral configurado. Ideal para avisar cuando una descarga en segundo plano finaliza o si la velocidad se interrumpe.
@@ -20,7 +15,7 @@ Un script modular en Python diseñado para monitorear el ancho de banda entrante
 ## 📦 Instalación
 
 1. Clona el repositorio:
-   ```bash
+```bash
    git clone [https://github.com/Irizith/alarma-descargas-steam.git](https://github.com/Irizith/alarma-descargas-steam.git)
    cd alarma-descargas-steam
 
